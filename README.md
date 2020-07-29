@@ -19,3 +19,9 @@ This repository hosts my submissions for the assignments in the MOOCs I have tak
 * HTML
 * CSS
 * JavaScript
+
+## Contribution Guidelines
+Any visitor of this repository is invited to contribute to making the code better. To make a contribution, follow these steps -
+1. Fork this repository
+2. Add your solution with the file name as "<oldfileName>" + "<your_username>"
+3. Create a pull request stating your approach to the problem and comparison with the original solution.
