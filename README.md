@@ -11,3 +11,11 @@ This repository hosts my submissions for the assignments in the MOOCs I have tak
 
   - **[Bootstrap 4](https://github.com/shubhanshu02/e-learning/tree/master/Bootstrap)** (In Progress) - In this course, we learn about grids and responsive design, Bootstrap CSS and JavaScript components. We learn about CSS preprocessors, Less and Sass. We also learn the basics of Node.js and NPM and task runners like Grunt and Gulp.
   - **[Algorithms on Graphs](https://github.com/shubhanshu02/e-learning/tree/master/Algorithms%20on%20Graphs)** (In Progress) - Graphs arise in various real-world situations as there are road networks, computer networks and, most recently, social networks! In this course, we learn about various algorithms on graphs.
+  
+## Technologies Used in This Repository
+
+* C++
+* Python 3
+* HTML
+* CSS
+* JavaScript
